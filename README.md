@@ -1,7 +1,7 @@
-# data-science
+# appleHealthStepCount
 
 
-How to generate a step report graph from apple health data
+How to generate a step count graph from apple health data
 
 
 1. export data from apple health
